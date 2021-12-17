@@ -1,5 +1,5 @@
 
-![FullLogo_Transparent.png]
+![Logo](FullLogo_Transparent.png)
 
 ## News 4 Majik Hack +
 
