@@ -6,7 +6,7 @@
 - This is currently a private hack client created by CanonBall90 to learn coding but tbh it ain't that bad.
 - All updates will be either put on the website (If you not a user) and on the github repository (If you is a user).
 - Website is maintained by HypeR.
-- Might go public when finished idk yet - CanonBall90
+- Might go public when finished
 
 ### Download
 
@@ -38,7 +38,7 @@ Sike u thought!
 
 Q: Why don't we use Discord? 
 
-A: Because I've gon through 5 Discord accounts but they keep getting termed.
+A: Because I've gon through 5 Discord accounts and servers but they keep getting termed.
 
 Q: Is this a skid?
 
