@@ -1,12 +1,10 @@
 
-![Logo]()
-
-
 ## News 4 Majik Hack +
 
 - This is currently a private hack client created by CanonBall90 to learn coding but tbh it ain't that bad.
 - All updates will be either put on the website (If you not a user) and on the github repository (If you is a user).
 - Website is maintained by HypeR.
+- Might go public when finished idk yet - CanonBall90
 
 ### Download
 
