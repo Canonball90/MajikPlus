@@ -48,6 +48,10 @@ Q: Showcase to prove dis real?
 
 A: Soon.
 
+Q: Is this legit?
+
+A: Apply and find out.
+
 ### YouTube Channel
 
 [CanonBall90's channel](https://www.youtube.com/channel/UCC_3QqwkCHlgm-0uw9W7UbA)
