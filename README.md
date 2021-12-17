@@ -1,4 +1,6 @@
 
+![FullLogo_Transparent.png]
+
 ## News 4 Majik Hack +
 
 - This is currently a private hack client created by CanonBall90 to learn coding but tbh it ain't that bad.
