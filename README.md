@@ -12,9 +12,9 @@
 
 ### Download
 
-Sike u thought!
+Sike u thought! (Soon maybe)
 
-### How 2 apply 4 client!!!!!!!!
+### How to apply for client!!!!!!!!
 
 	How to get?
 	If you would like to recieve the client you need to apply.
@@ -30,10 +30,6 @@ Sike u thought!
 
 	To apply message HypeR#1021 or CanonBall90#0490 on Discord.
 
-	just keeping this stuff here for refrence and shit.
-	**Bold** and _Italic_ and `Code` text
-
-	[Link](url) and ![Image](src)
 
 
 ### Possible questions + answers
