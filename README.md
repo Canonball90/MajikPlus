@@ -8,6 +8,7 @@
 - Website is maintained by HypeR.
 - Might go public when finished
 - renamed website a lil bit
+- New Logo
 
 
 ### Download
