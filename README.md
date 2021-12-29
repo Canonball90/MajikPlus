@@ -15,6 +15,18 @@
 
 Sike u thought! (Soon maybe)
 
+### Current Users
+
+1. CanonBall90 
+2. HypeR 
+3. Coolrock 
+4. Kiddo55 
+5. CrazyOwl
+6. Francisca 
+7. ?ᠻ᭙ 
+8. Hateful♿️kfc♿️ 
+8. Not hamzaYT 
+
 ### How to apply for client!!!!!!!!
 
 	How to get?
@@ -28,16 +40,13 @@ Sike u thought! (Soon maybe)
 	5. Do you have experience with java or kotlin?
 	6. Why do you want client?
 	7. How can you contribute?
+	8. Who can  vouch for you?
 
-	To apply message HypeR#1021 or CanonBall90#0490 on Discord.
+	To apply join the [discord](https://discord.gg/wyabBH8TWU)
 
 
 
 ### Possible questions + answers
-
-Q: Why don't we use Discord? 
-
-A: Because I've gon through 5 Discord accounts and servers but they keep getting termed.
 
 Q: Is this a skid?
 
