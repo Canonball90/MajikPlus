@@ -42,7 +42,7 @@ Sike u thought! (Soon maybe)
 	7. How can you contribute?
 	8. Who can  vouch for you?
 
-	To apply join the [discord](https://discord.gg/wyabBH8TWU)
+	To apply join the discord: https://discord.gg/wyabBH8TWU
 
 
 
